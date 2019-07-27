@@ -41,12 +41,12 @@ master='enable'
 caves='enable'
 
 #    screen名字,地上世界和地下世界的
-masterName='dst_master'
-cavesName='dst_caves'
+masterName='dst_master 1'
+cavesName='dst_caves 1'
 
 #    你存档的目录名称,如果是一台服务器上运行地上地下,那么这两个是相同的
-masterDir='Cluster_1'
-cavesDir='Cluster_1'
+masterDir='1'
+cavesDir='1'
 
 #    更新日志:    这个脚本的更新日志的路径
 #    可以把它改成自己喜欢的路径,如果不想记录,就把它改成''
